@@ -1,0 +1,4 @@
+C++ is powerful and easy to learn.
+Many developers love C++ for data science.
+C++ can also be used for web development.
+C++ is also powerful but more complex than C++.
